@@ -1,0 +1,14 @@
+{
+  "name": "versus-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Izet Mualalic",
+  "license": "ISC",
+  "dependencies": {
+    "bootbot": "^1.0.16"
+  }
+}
